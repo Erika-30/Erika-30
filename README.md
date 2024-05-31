@@ -12,3 +12,4 @@
   <a href="#"><img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%23dcdcdc?style=for-the-badge&logo=postgreSQL&labelColor=black" alt="PostgreSQL Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&labelColor=black" alt="CSS3 Badge"/></a>
