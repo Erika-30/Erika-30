@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://media.giphy.com/media/dUa0YL1AZlevEpLrEx/giphy.gif?cid=790b761171zz6g9gxlox9qzk7x6glrzvbovfoq5kf555i7fs&ep=v1_gifs_search&rid=giphy.gif&ct=g
 <!--
 **Erika-30/Erika-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
