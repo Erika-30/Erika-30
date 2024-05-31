@@ -17,5 +17,6 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Erika-30&show_icons=true&theme=radical" alt="Erika's GitHub stats"/></a>
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Erika-30&theme=radical&hide_border=true" alt="GitHub Streak"/></a>
   
 </p>
