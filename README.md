@@ -3,3 +3,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/dUa0YL1AZlevEpLrEx/giphy.gif?cid=790b761171zz6g9gxlox9qzk7x6glrzvbovfoq5kf555i7fs&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="MasterHead"/>
 </p>
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
+
+<h2 align="center">💻 Tech Stack:</h2>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React Badge"/></a>
