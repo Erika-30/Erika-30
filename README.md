@@ -24,7 +24,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="Javascript Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="Typescript Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" alt="Nodejs Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab" alt="GraphQL Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%23dcdcdc?style=for-the-badge&logo=postgreSQL&labelColor=black" alt="PostgreSQL Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=CSS3&labelColor=black" alt="CSS3 Badge"/></a>
 </p>
