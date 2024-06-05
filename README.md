@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, How is it going!!</h1>
-
+<h1 align="center">Hi 👋, I'm Judith Erika Huisa</h1>
+  <p align="center">a passionate Full-Stack Web Developer</p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2g5Mnp2ajZ0bTFpMDIyNHA4ZjczeHo3cHJleTJ4YzZ2bDNxand2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dUa0YL1AZlevEpLrEx/giphy.webp" alt="MasterHead"/>
 </p>
 
-<h3 align="center">I'm Judith Erika Huisa, a passionate Full-Stack Web Developer</h3>
+<p align="center">How is it going!!</p>
 
 <h2>About Me</h2>
 <p>
